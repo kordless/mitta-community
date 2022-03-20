@@ -1,2 +1,2 @@
 # mitta_community
-Community Code for Mitta + Tickets for Issues
+Community Code for Mitta + tickets/issues for commands.
