@@ -4,7 +4,7 @@
 // copyright: all rights reserved, 2020
 // license: BSD-3-Clause
 // all github apps must have autoescape set to off
-{% autoescape %}
+{% autoescape off %}
 {{base}}
 {% endautoescape %}
 
