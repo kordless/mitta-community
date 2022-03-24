@@ -4,7 +4,9 @@
 // copyright: all rights reserved, 2020
 // license: BSD-3-Clause
 // all github apps must have autoescape set to off
-{{autoescape off}}
+{% autoescape %}
 {{base}}
+{% endautoescape %}
+
 
 controller.report(System("Hello Joe!"));
