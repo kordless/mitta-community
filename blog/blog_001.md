@@ -1,17 +1,20 @@
-## Building Mitta
-I've been working on Mitta for over 2 years now. Mitta was originally designed to save and search webpages, but when OpenAI released their first GPT-based language model, I knew things were going to change rapidly with the Web, and search in particular. I kenw that building document collections was likely the best approach to grounding language models, and so I began working on adding a generative language model framework into Mitta to help with organizing and discussing the documents that were saved to the system.
+## Building Mitta: A Throwback to the Golden Era
+Hey digital voyagers, it's Kord here. Man, it feels like just yesterday when we were rocking dial-up and battling with those pesky Y2K bugs, but here I am, 2 years deep into creating Mitta. This beauty started as a humble tool to stash and dig up webpages. But then OpenAI rolled out that first GPT marvel, and I felt that rush - you know, the one we felt back when the web was wild and young. I sensed the winds of change gusting in, especially for online search.
 
-Eventually, Mitta will provide community driven curration of various types of documents, embeddings for those documents through vectoriztion, search of documents and document fragments, and vector approximation and similarity functions. We will also be providing training pipelines and inference methods for building bots from documents, among other things.
+I've always believed that knowledge is power, but how we collect and manage that knowledge? That's the magic. So, harnessing the best from the old school, I've been weaving in a generative language model framework into Mitta. Think of it as the digital equivalent of a mixtape, but for organizing and yakking about the web gems you save.
 
-### Signing Up
-Things here are in flux, but I resumed working on the site in August to get to a point I can do a release. I've opened signups to allow anyone to sign up for a free account. Just go to the main page and click on log in at the top right to get a login token.
+In the pipeline? Mitta aims to be the raddest spot for community-powered curation of documents, transforming those docs via vectorization, fragment searching, and getting all mathematical with vector approximation and similarity ops. Not just that - we're gonna have the blueprint for training your own bots using these docs. Cool beans, right?
 
-### Use
-Right now the AI functions are being rewritten, so you may find using the functions available via `!help` are your best bet for using it right now. You can save things, upload things and search for things. That should get you started.
+### Dive In, the Water's Fine
+Had a little sabbatical but fired up the engines this August. Looking to roll out something snazzy soon. For those early adopters, I've got the doors wide open for signups. Free pass, baby! Just hit the main page and tap on that login at the top right to snag your golden ticket.
 
-### A Note on VC Money
-I have been considering raising money for building Mitta faster, but honestly it feels a bit too early at this point for that and I'm not sure this business model (or my ideas what to do with it) really resonate with the "typical" VC market. I'm also a little tired of justifying my ideas to others, so what I'm going to do for now is just work on it when I can and see what happens.
+### Getting Jiggy with It
+While I'm still under the hood tweaking the AI stuff, try throwing `!help` into the mix. That command's your ticket to stashing, uploading, and seeking treasures. Should give you a neat jumpstart.
 
-I will post back a more detailed update once I get the blog templates finished. You can't have a site without a blog... :)
+### Musings on VC Bucks and Business Models
+Been mulling over grabbing some of that sweet VC dough to turbocharge Mitta. But let me be real – I've danced to the tunes of corporate suits before. And while I'm all for a good ol' jive, it feels a tad premature to open that door. Plus, I've got this gut feel that my vision for Mitta might not exactly be the VC flavor of the month. And, between you and me, explaining my brainchild over and over? Kinda draining. So, I'm gonna jam at my own rhythm, see where this journey takes us.
 
+Once I dust off and polish up those blog templates, I'll beam up a juicier update. Because let's face it, what's a site without some wicked blog action?
+
+Catch you on the flip side,
 *Kord*
